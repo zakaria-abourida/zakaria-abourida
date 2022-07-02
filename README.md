@@ -3,7 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakaria-abourida&label=Profile%20views&color=0e75b6&style=flat" alt="zakaria-abourida" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zakaria-abourida" alt="zakaria-abourida" /></a> </p>
+
+<p dir="auto">I started a code 4 years ago with .Net, but I really found a passion for mobile development, also the web (font and dos)</p>
+<ul dir="auto">
+<li><g-emoji class="g-emoji" alias="earth_africa" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png">🌍</g-emoji>  I'm based in Morocco</li>
+<li><g-emoji class="g-emoji" alias="envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png">✉️</g-emoji>  You can contact me at <a href="mailto:moumniabdou.adil@gmail.com">moumniabdou.adil@gmail.com</a></li>
+<li><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>  I'm currently working on <a href="http://cooloc.com" rel="nofollow">Adil moumni abdou</a></li>
+<li><g-emoji class="g-emoji" alias="brain" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e0.png">🧠</g-emoji>  I'm learning Vue.js - python</li>
+<li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>  I'm secretly super hero... but don't tell anyone</li>
+</ul>
 
 <p align="left"> <a href="https://twitter.com/zakaria abourida" target="blank"><img src="https://img.shields.io/twitter/follow/zakaria abourida?logo=twitter&style=for-the-badge" alt="zakaria abourida" /></a> </p>
 
