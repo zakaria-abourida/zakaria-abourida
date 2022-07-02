@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zakaria abourida</h1>
-<h3 align="center">Full-Stack developper</h3>
+<h3 align="center">Full-Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakaria-abourida&label=Profile%20views&color=0e75b6&style=flat" alt="zakaria-abourida" /> </p>
 
