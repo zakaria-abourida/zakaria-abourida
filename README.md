@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakaria-abourida&label=Profile%20views&color=0e75b6&style=flat" alt="zakaria-abourida" /> </p>
 
 
-<p dir="auto">I started a code 4 years ago with .Net, but I really found a passion for mobile development, also the web (font and dos)</p>
+<p dir="auto">I started a code 6 years ago with .Net, but I really found a passion for mobile development, also the web (font and dos)</p>
 <ul dir="auto">
 <li><g-emoji class="g-emoji" alias="earth_africa" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png">🌍</g-emoji>  I'm based in Morocco</li>
 <li><g-emoji class="g-emoji" alias="envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png">✉️</g-emoji>  You can contact me at <a href="mailto:moumniabdou.adil@gmail.com">zakariaabourida980@gmail.com</a></li>
